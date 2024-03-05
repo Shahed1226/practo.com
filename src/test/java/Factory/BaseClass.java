@@ -53,7 +53,7 @@ public static WebDriver initilizeBrowser() throws IOException
 		        System.out.println("No matching browser");
 		     }
        
-        driver = new RemoteWebDriver(new URL("http://10.66.137.208:4444"),capabilities);
+        driver = new RemoteWebDriver(new URL("http://192.168.43.62:4444"),capabilities);
 		
 	}
 	else if(getProperties().getProperty("execution_env").equalsIgnoreCase("local"))

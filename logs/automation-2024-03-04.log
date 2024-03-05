@@ -1,0 +1,55 @@
+17:39:41.983 [main] INFO  Factory.BaseClass - Filters applied which contains Doctor gender, experience, fees etc.
+17:39:46.123 [main] INFO  Factory.BaseClass - Printed top 5 doctors name with their details in console and excel
+17:39:51.055 [main] INFO  Factory.BaseClass - FAll the available surgeries which are displyed on the screen are printed  
+17:40:09.921 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+17:40:14.169 [main] INFO  Factory.BaseClass - All the details except email is filled 
+17:40:14.823 [main] INFO  Factory.BaseClass - Invalid email is entered
+17:40:15.314 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)
+17:40:16.159 [main] INFO  Factory.BaseClass - Entering the valid email
+17:40:16.609 [main] INFO  Factory.BaseClass - Validating the demo button(should be enable)
+17:40:30.580 [main] INFO  Factory.BaseClass - Thank you message is displayed and project ended.
+21:46:17.858 [main] INFO  Factory.BaseClass - for try
+21:46:38.590 [main] INFO  Factory.BaseClass - City and Specialist are selected
+21:46:57.981 [main] INFO  Factory.BaseClass - Filters applied which contains Doctor gender, experience, fees etc.
+21:47:04.128 [main] INFO  Factory.BaseClass - Printed top 5 doctors name with their details in console and excel
+21:47:10.703 [main] INFO  Factory.BaseClass - FAll the available surgeries which are displyed on the screen are printed  
+21:47:34.015 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+21:49:50.469 [main] INFO  Factory.BaseClass - for try
+21:49:59.568 [main] INFO  Factory.BaseClass - City and Specialist are selected
+21:50:23.999 [main] INFO  Factory.BaseClass - Filters applied which contains Doctor gender, experience, fees etc.
+21:50:30.642 [main] INFO  Factory.BaseClass - Printed top 5 doctors name with their details in console and excel
+21:50:49.812 [main] INFO  Factory.BaseClass - FAll the available surgeries which are displyed on the screen are printed  
+21:51:14.821 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+21:52:39.839 [main] INFO  Factory.BaseClass - for try
+21:52:52.301 [main] INFO  Factory.BaseClass - City and Specialist are selected
+21:53:11.665 [main] INFO  Factory.BaseClass - Filters applied which contains Doctor gender, experience, fees etc.
+21:53:17.228 [main] INFO  Factory.BaseClass - Printed top 5 doctors name with their details in console and excel
+21:53:23.660 [main] INFO  Factory.BaseClass - FAll the available surgeries which are displyed on the screen are printed  
+21:55:56.697 [main] INFO  Factory.BaseClass - for try
+21:56:12.135 [main] INFO  Factory.BaseClass - City and Specialist are selected
+21:56:35.785 [main] INFO  Factory.BaseClass - Filters applied which contains Doctor gender, experience, fees etc.
+21:56:41.943 [main] INFO  Factory.BaseClass - Printed top 5 doctors name with their details in console and excel
+21:56:50.747 [main] INFO  Factory.BaseClass - FAll the available surgeries which are displyed on the screen are printed  
+21:57:33.971 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+21:57:40.240 [main] INFO  Factory.BaseClass - All the details except email is filled 
+21:57:41.168 [main] INFO  Factory.BaseClass - Invalid email is entered
+21:57:41.741 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)
+21:57:43.081 [main] INFO  Factory.BaseClass - Entering the valid email
+21:57:43.738 [main] INFO  Factory.BaseClass - Validating the demo button(should be enable)
+21:57:58.173 [main] INFO  Factory.BaseClass - Thank you message is displayed and project ended.
+22:01:54.858 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+22:02:01.575 [main] INFO  Factory.BaseClass - All the details except email is filled 
+22:02:02.772 [main] INFO  Factory.BaseClass - Invalid email is entered
+22:02:03.384 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)
+22:05:12.120 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+22:05:18.397 [main] INFO  Factory.BaseClass - All the details except email is filled 
+22:05:19.371 [main] INFO  Factory.BaseClass - Invalid email is entered
+22:05:19.879 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)
+22:06:40.762 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+22:06:47.401 [main] INFO  Factory.BaseClass - All the details except email is filled 
+22:06:48.299 [main] INFO  Factory.BaseClass - Invalid email is entered
+22:06:48.854 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)
+22:08:40.993 [main] INFO  Factory.BaseClass - Directed to Health and Wellness page 
+22:08:46.754 [main] INFO  Factory.BaseClass - All the details except email is filled 
+22:08:47.782 [main] INFO  Factory.BaseClass - Invalid email is entered
+22:08:48.368 [main] INFO  Factory.BaseClass - Validating the demo button(should be disable)

@@ -73,6 +73,7 @@ public static WebDriver initilizeBrowser() throws IOException
 		}
 	 driver.manage().deleteAllCookies(); 
 	 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
 	 
 	 
 	 return driver;
